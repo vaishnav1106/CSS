@@ -1,3 +1,7 @@
+body
+{
+  background-color:gainsboro;
+}
 header
 {
   color:orange;
@@ -11,4 +15,22 @@ p
 {
   color: slategray;
   text-align: center;
+  /* letter-spacing: 3px;
+  column-count: 4;
+  column-gap: 2px; */
+}
+ul
+{
+  /* border-style: solid;
+  border-right: 2px;
+  border-color: cornflowerblue; */
+  /* border : 2px solid cornflowerblue; */
+  border-bottom: 4px dashed cornflowerblue;
+  border-left:4px dashed cornflowerblue;
+}
+
+li
+{
+  list-style-type: style none;
+  text-shadow: 2px 2px lightblue;
 }
