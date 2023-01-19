@@ -34,3 +34,18 @@ li
   list-style-type: style none;
   text-shadow: 2px 2px lightblue;
 }
+
+/* class style */
+p.new
+{
+  color:#02a0e9;
+  text-align: left;
+  background-color: rgb(255, 24, 24);
+}
+p.new.neww
+{
+  color:#ADE792;
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  font:bold;
+
+}
