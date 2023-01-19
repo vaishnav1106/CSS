@@ -35,7 +35,8 @@ li
   text-shadow: 2px 2px lightblue;
 }
 
-/* class style */
+/* class style
+ */
 p.new
 {
   color:#02a0e9;
@@ -48,4 +49,18 @@ p.new.neww
   font-family:Georgia, 'Times New Roman', Times, serif ;
   font:bold;
 
+}
+/* the cascad */
+div
+{
+  color: cornsilk;
+  background-color: rgb(55, 206, 233);
+  border-width: 2px;
+  border-style:dashed;
+  margin: 10px;
+}
+p{
+  border-style:inherit;
+  margin: inherit;
+  background-color: inherit;
 }
