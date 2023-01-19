@@ -1,10 +1,14 @@
-h1
+header
 {
-  color: orange;
+  color:orange;
+  text-align: center;
   background-color: slategray;
 }
+
+
 
 p
 {
   color: slategray;
+  text-align: center;
 }
